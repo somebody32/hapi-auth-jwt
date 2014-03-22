@@ -20,7 +20,7 @@
     "jsonwebtoken": "~0.1.0"
   },
   "peerDependencies": {
-    "hapi": "2.x.x"
+    "hapi": ">= 2.x.x"
   },
   "devDependencies": {
     "hapi": "2.x.x",
